@@ -1,3 +1,3 @@
-# MiscProjects
+# project_archive
 
-A collection of miscellaneous, small projects
+Archive of older projects
