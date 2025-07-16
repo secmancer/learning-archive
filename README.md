@@ -1,3 +1,3 @@
-# project_archive
+# Programming Archive
 
-Archive of older projects
+Archive of older solved programming challenges and classes
