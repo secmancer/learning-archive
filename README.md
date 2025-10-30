@@ -1,3 +1,3 @@
 # Programming Archive
 
-Archive of older solved programming challenges and classes
+Collection of code that I used for solving programming challenges and some college classes
