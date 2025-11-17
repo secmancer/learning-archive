@@ -46,6 +46,8 @@ def main():
     valid_characters = finding_valid_characters()
     print(f"Valid characters: {valid_characters}")
     
+    password = brute_force_password(valid_characters)
+    print(f"Brute-forced password: {password}")
     
 if __name__ == "__main__":
     main()
